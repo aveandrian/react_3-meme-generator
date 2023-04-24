@@ -63,6 +63,8 @@ main {
 .meme {
   position: relative;
   width: 477px;
+  display: flex;
+  justify-content: center;
 }
 
 .meme--image {
